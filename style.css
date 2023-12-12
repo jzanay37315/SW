@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(255, 98, 98);
+    text-align:center;
+    margin-bottom:1000px;
+}
+.myNavbar{
+    background-color:blue;
+}
+a {
+    color: rgb(255, 255, 255);
+   font-size :20px;
+background-color: rgb(51, 50, 50);
+
+}
+.navbar-header {
+    width: 100%;
+    position: fixed;
+    background-color: rgb(51, 50, 50);
+}
+#myNavbar {
+    position: fixed;
+    width: 100%;
+}
+.navbar {
+    position: absolute;
+}
+.navbar-brand{
+    font-size:30px;
+
+}
+p{
+color:white;
+}
+
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.movie_head i{
+    float:right;
+}
+.achievement_text span{
+    color:orange;
+}
+h6{
+    color:rgb(255, 98, 98);   
+    font-size:15px;
+}
+.list-group-item{
+    margin-bottom:200px;
+}
+
+h5{
+    font-size:20px;
+}
+h4{
+    font-size:25px;
+}
+h3{
+    font-size: 30px;
+}
+.img{
+    margin-left: 200px;
+}
